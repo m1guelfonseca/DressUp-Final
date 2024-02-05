@@ -107,7 +107,7 @@ const Signup = () => {
         <Image
           src="/images/background.jpg"
           alt="DressUp"
-          layout="fill"
+          fill
           objectFit="cover"
         />
       </div>

@@ -14,7 +14,7 @@ const Home = () => {
           <Image
             src="/images/background.jpg"
             alt="DressUp"
-            layout="fill"
+            fill
             objectFit="cover"
           />
         </div>
@@ -53,10 +53,10 @@ const Home = () => {
             </div>
           </div>
           <div className="relative mt-16 pl-12 lg:mt-12">
-            <img
+            <Image
               className=""
               src="/images/roupa3_fs.png"
-              alt="App screenshot"
+              alt=""
               width={400}
               height={400}
             />
