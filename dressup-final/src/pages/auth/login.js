@@ -83,7 +83,7 @@ const Login = () => {
                     src="/images/background.jpg"
                     alt="DressUp"
                     fill
-                    objectFit="cover"
+                    cover
                 />
             </div>
             <div className="flex min-h-full flex-1 flex-col  px-6 py-12 lg:px-8">

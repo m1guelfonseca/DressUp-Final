@@ -108,7 +108,7 @@ const Signup = () => {
           src="/images/background.jpg"
           alt="DressUp"
           fill
-          objectFit="cover"
+          cover
         />
       </div>
       <div className="min-h-screen pt-20">

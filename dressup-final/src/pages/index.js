@@ -15,7 +15,7 @@ const Home = () => {
             src="/images/background.jpg"
             alt="DressUp"
             fill
-            objectFit="cover"
+            cover
           />
         </div>
       </div>
